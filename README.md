@@ -1,2 +1,9 @@
-# multimedia2_7
-Multimedia II 2018, Primer Semestre → Clase 7 → Viernes 4 de mayo
+Diseño Gráfico · Universidad de Chile
+
+# Multimedia II
+
+### JavaScript
+
+---
+
+[Clase anterior](https://github.com/profesorfaco/multimedia2_6/) | [Clase siguiente](https://github.com/profesorfaco/multimedia2_8/)
