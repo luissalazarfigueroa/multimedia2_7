@@ -2,7 +2,7 @@ Diseño Gráfico · Universidad de Chile
 
 # Multimedia II
 
-### JavaScript
+### d3.js
 
 ---
 
